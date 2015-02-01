@@ -1,3 +1,5 @@
+/*Project 6 is again an extension of Project 5. In the project the goal is to find the centers within the PCA space by using gauissian quantifier.
+It uses Mean Shift alogrithm to find these centers */
 #include "opencv2/highgui/highgui.hpp"
 
 #include "opencv2/imgproc/imgproc.hpp"

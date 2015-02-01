@@ -1,3 +1,10 @@
+/*Project 1 is developed for applying linear filter to images. 
+It is run by the command line by adding the path of the image and the csv file.
+The format of the csv file should be like below
+1,2,3
+4,5,6
+7,8,9
+*/
 #include <iostream>
 #include <stdio.h>
 #include <opencv2/opencv.hpp>

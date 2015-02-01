@@ -1,4 +1,5 @@
-
+/*Project 5 is an extension of project 2-3 with the help of PCA.
+ The varience is dictated by me to be used in the next project*/
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
 #include <vector>
@@ -11,8 +12,6 @@ using namespace cv;
 using namespace std;
 vector<pair<string, vector<Mat> > >* getHistogramFromDirectories();
 Mat getHistogram(Mat *image);
-float getHistIntersectionValue(Mat current, Mat compare);
-float getChiSquareValue(Mat current, Mat compare);
 #define QUANTUM 8
 //QUANTUM value is controlled from here
 

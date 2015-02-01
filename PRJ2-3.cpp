@@ -1,4 +1,5 @@
-
+/*Project 2-3 is designed for comparing the images in the image categories in the main DATASET folder and checks whether the matches result with the same categories.
+In order for this program to work the user has to have a DATASET folder within the project and image categories within that folder.*/
 
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"

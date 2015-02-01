@@ -1,4 +1,5 @@
-
+/*This project is designed to read the faces of the dices and guess the numbers they mean.
+*/
 #include <stdio.h>
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"

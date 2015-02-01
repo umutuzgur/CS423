@@ -1,4 +1,5 @@
-
+/*Project 4 is designed for analyzing the time from a clock.
+ It works better with clocks that dont have a second hand because it works with k-means algortihm*/
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
 #include <iostream>
